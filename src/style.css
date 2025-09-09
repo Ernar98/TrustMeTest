@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body, #app { height: 100%; }
+
+/* Utility for focus-visible to improve a11y */
+:focus-visible { outline: 3px solid rgb(79 70 229); outline-offset: 2px; }

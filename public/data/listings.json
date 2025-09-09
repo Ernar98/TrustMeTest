@@ -1,0 +1,254 @@
+[
+  {
+    "id": 1,
+    "area": 117.8,
+    "rooms": 2,
+    "address": "ул. Сыганак 39, Алматинский район, Астана",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?q=80&w=800&auto=format&fit=crop"
+  },
+  {
+    "id": 2,
+    "area": 142.4,
+    "rooms": 1,
+    "address": "ул. Мәңгілік Ел 15, Есильский район, Астана",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?q=80&w=800&auto=format&fit=crop"
+  },
+  {
+    "id": 3,
+    "area": 62.2,
+    "rooms": 2,
+    "address": "ул. Туркестан 42, Есильский район, Астана",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?q=80&w=800&auto=format&fit=crop"
+  },
+  {
+    "id": 4,
+    "area": 162.4,
+    "rooms": 3,
+    "address": "ул. Бейбитшилик 5, Алматинский район, Астана",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?q=80&w=800&auto=format&fit=crop"
+  },
+  {
+    "id": 5,
+    "area": 102.3,
+    "rooms": 2,
+    "address": "ул. Акмешит 59, Сарыаркинский район, Астана",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?q=80&w=800&auto=format&fit=crop"
+  },
+  {
+    "id": 6,
+    "area": 75.6,
+    "rooms": 1,
+    "address": "ул. Достык 50, Алматинский район, Астана",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?q=80&w=800&auto=format&fit=crop"
+  },
+  {
+    "id": 7,
+    "area": 149.7,
+    "rooms": 1,
+    "address": "ул. Акмешит 62, Сарыаркинский район, Астана",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?q=80&w=800&auto=format&fit=crop"
+  },
+  {
+    "id": 8,
+    "area": 86.3,
+    "rooms": 2,
+    "address": "ул. Алматы 78, Есильский район, Астана",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?q=80&w=800&auto=format&fit=crop"
+  },
+  {
+    "id": 9,
+    "area": 97.8,
+    "rooms": 2,
+    "address": "ул. Сыганак 87, Есильский район, Астана",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?q=80&w=800&auto=format&fit=crop"
+  },
+  {
+    "id": 10,
+    "area": 55.4,
+    "rooms": 3,
+    "address": "ул. Кабанбай батыра 80, Есильский район, Астана",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?q=80&w=800&auto=format&fit=crop"
+  },
+  {
+    "id": 11,
+    "area": 86.4,
+    "rooms": 4,
+    "address": "ул. Ханов Кенесары 16, Есильский район, Астана",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?q=80&w=800&auto=format&fit=crop"
+  },
+  {
+    "id": 12,
+    "area": 108.6,
+    "rooms": 4,
+    "address": "пр. Тауельсыздык 16, Сарыаркинский район, Астана",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?q=80&w=800&auto=format&fit=crop"
+  },
+  {
+    "id": 13,
+    "area": 94.2,
+    "rooms": 2,
+    "address": "ул. Ханов Кенесары 50, Сарыаркинский район, Астана",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?q=80&w=800&auto=format&fit=crop"
+  },
+  {
+    "id": 14,
+    "area": 109.7,
+    "rooms": 1,
+    "address": "ул. Керей и Жанибек хандар 115, Сарыаркинский район, Астана",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?q=80&w=800&auto=format&fit=crop"
+  },
+  {
+    "id": 15,
+    "area": 107.2,
+    "rooms": 4,
+    "address": "ул. Бейбитшилик 11, Есильский район, Астана",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?q=80&w=800&auto=format&fit=crop"
+  },
+  {
+    "id": 16,
+    "area": 153.0,
+    "rooms": 5,
+    "address": "ул. Ханов Кенесары 59, Есильский район, Астана",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?q=80&w=800&auto=format&fit=crop"
+  },
+  {
+    "id": 17,
+    "area": 140.3,
+    "rooms": 4,
+    "address": "ул. Бейбитшилик 8, Алматинский район, Астана",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?q=80&w=800&auto=format&fit=crop"
+  },
+  {
+    "id": 18,
+    "area": 107.8,
+    "rooms": 5,
+    "address": "ул. Ханов Кенесары 108, Есильский район, Астана",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?q=80&w=800&auto=format&fit=crop"
+  },
+  {
+    "id": 19,
+    "area": 32.6,
+    "rooms": 2,
+    "address": "ул. Ханов Кенесары 115, Сарыаркинский район, Астана",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?q=80&w=800&auto=format&fit=crop"
+  },
+  {
+    "id": 20,
+    "area": 72.2,
+    "rooms": 3,
+    "address": "ул. Абая 28, Есильский район, Астана",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?q=80&w=800&auto=format&fit=crop"
+  },
+  {
+    "id": 21,
+    "area": 158.4,
+    "rooms": 4,
+    "address": "ул. Қонаев 81, Алматинский район, Астана",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?q=80&w=800&auto=format&fit=crop"
+  },
+  {
+    "id": 22,
+    "area": 45.7,
+    "rooms": 3,
+    "address": "ул. Сарайшык 86, Алматинский район, Астана",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?q=80&w=800&auto=format&fit=crop"
+  },
+  {
+    "id": 23,
+    "area": 142.9,
+    "rooms": 5,
+    "address": "ул. Абая 81, Есильский район, Астана",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?q=80&w=800&auto=format&fit=crop"
+  },
+  {
+    "id": 24,
+    "area": 53.0,
+    "rooms": 2,
+    "address": "ул. Ханов Кенесары 6, Сарыаркинский район, Астана",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?q=80&w=800&auto=format&fit=crop"
+  },
+  {
+    "id": 25,
+    "area": 143.3,
+    "rooms": 3,
+    "address": "ул. Қонаев 5, Сарыаркинский район, Астана",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?q=80&w=800&auto=format&fit=crop"
+  },
+  {
+    "id": 26,
+    "area": 74.2,
+    "rooms": 1,
+    "address": "ул. Қонаев 21, Алматинский район, Астана",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?q=80&w=800&auto=format&fit=crop"
+  },
+  {
+    "id": 27,
+    "area": 44.1,
+    "rooms": 4,
+    "address": "ул. Сыганак 47, Есильский район, Астана",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?q=80&w=800&auto=format&fit=crop"
+  },
+  {
+    "id": 28,
+    "area": 114.8,
+    "rooms": 3,
+    "address": "ул. Бухар Жырау 6, Есильский район, Астана",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?q=80&w=800&auto=format&fit=crop"
+  },
+  {
+    "id": 29,
+    "area": 143.4,
+    "rooms": 4,
+    "address": "ул. Сарайшык 105, Алматинский район, Астана",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?q=80&w=800&auto=format&fit=crop"
+  },
+  {
+    "id": 30,
+    "area": 46.7,
+    "rooms": 5,
+    "address": "ул. Бейбитшилик 120, Алматинский район, Астана",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?q=80&w=800&auto=format&fit=crop"
+  },
+  {
+    "id": 31,
+    "area": 104.3,
+    "rooms": 3,
+    "address": "пр. Тауельсыздык 85, Есильский район, Астана",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?q=80&w=800&auto=format&fit=crop"
+  },
+  {
+    "id": 32,
+    "area": 90.2,
+    "rooms": 1,
+    "address": "ул. Бухар Жырау 71, Алматинский район, Астана",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?q=80&w=800&auto=format&fit=crop"
+  },
+  {
+    "id": 33,
+    "area": 150.2,
+    "rooms": 1,
+    "address": "ул. Бейбитшилик 118, Алматинский район, Астана",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?q=80&w=800&auto=format&fit=crop"
+  },
+  {
+    "id": 34,
+    "area": 44.3,
+    "rooms": 5,
+    "address": "ул. Достык 69, Алматинский район, Астана",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?q=80&w=800&auto=format&fit=crop"
+  },
+  {
+    "id": 35,
+    "area": 72.8,
+    "rooms": 2,
+    "address": "ул. Абая 23, Есильский район, Астана",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?q=80&w=800&auto=format&fit=crop"
+  },
+  {
+    "id": 36,
+    "area": 36.6,
+    "rooms": 1,
+    "address": "ул. Сарайшык 34, Алматинский район, Астана",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?q=80&w=800&auto=format&fit=crop"
+  }
+]
